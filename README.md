@@ -22,6 +22,8 @@ with:
 
 ## Dev
 
+https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action
+
 ```
 git add action.yml index.js node_modules/* package.json package-lock.json README.md
 git commit -m "My first action is ready"
